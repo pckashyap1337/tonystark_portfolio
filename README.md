@@ -3,7 +3,7 @@
 A modern, animated personal portfolio project built to showcase skills, projects, and experience with a clean UI and smooth interactions.
 
 ## 🌐 Live Preview
-👉 https://smarttejas.com/tonystark
+👉 https://smarttejas.com/projects/tonystark
 
 ## 🧠 About the Project
 
