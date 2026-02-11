@@ -3,6 +3,7 @@ import './index.css';
 import App from './App.jsx';
 import ScrollToTop from "react-scroll-to-top";
 import {BrowserRouter} from "react-router-dom";
+import { ChevronUp } from "lucide-react";
 
 createRoot(document.getElementById('root')).render(
     <BrowserRouter>
